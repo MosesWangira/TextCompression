@@ -1,4 +1,4 @@
-#Python script for compression of test using lossy method
+#Python script for compression of text using lossy method
 #Not advisable for texts but I use it as a stepping stone
 TextToCompress = input("Enter your sentence : ") 
 
